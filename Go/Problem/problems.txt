@@ -1,0 +1,22 @@
+1. Set up the Database & Create the tables with respective primary & foreign keys
+2. Insert data into the tables from respective CSV files
+3. Query Operations:
+- List all events
+- List all events in a particular city: "Lalganj"
+- List all events in a particular year and month: "December, 2022"
+- List all events in a particular date range: from "2022-04-01" to "2022-06-31"
+- Find attendees registered for a specific event: event_name = "eget nunc donec"
+- Find attendees registered for a specific event before a certain date: event_name = "eget nunc donec" and date = "2022-12-01"
+- Count the number of attendees for each event
+- Update attendee information (e.g., email address) for a specific event: event_name = "faucibus accumsan"
+- Delete an event and its associated registrations: event_name = "duis bibendum"
+- Delete an attendee and its associated registrations: attendee_name = "Roch Batters"
+- List all attendees not registered for a specific event: event_name = "eget nunc donec"
+- Find events without any registrations
+- List events that have more than 15 attendees registered
+- Find events with no attendees registered after a certain date: date = "2022-12-01"
+- Retrieve the latest 3 events based on registration date for a particular city: city = "Kanayannur"
+- Generate a list of attendees who have attended more than 4 events.
+- Find the year & month combination with the highest number of events scheduled and list all events for that month.
+- Find the city with the highest number of events scheduled and list all events for that city.
+- Find the city with the highest number of events scheduled and list all the attendees who'll be attending these events with their dates of registration.
