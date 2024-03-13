@@ -1,0 +1,32 @@
+------------------------------------------------------------
+1.Create Database and connect to it
+------------------------------------------------------------
+psql --username=postgres
+
+CREATE DATABASE eventmgmt;
+
+\c eventmgmt; (required only to confirm the next steps)
+
+------------------------------------------------------------
+2.Give executable permission to shell scipt files
+------------------------------------------------------------
+chmod +x create_tables.sh
+chmod +x insert_data.sh
+chmod +x queries.sh
+
+------------------------------------------------------------
+3.Copy & Run shell script files (NOTE: Create tables first)
+------------------------------------------------------------
+./create_tables.sh
+./insert_data.sh
+
+------------------------------------------------------------
+4. Compact sql db queries into eventmgmt.sql file.
+------------------------------------------------------------
+pg_dump -cC --inserts -U postgres eventmgmt > "DB Prep - SQL/eventmgmt.sql"
+
+------------------------------------------------------------
+5. Run sql queries from with queries.sh file
+------------------------------------------------------------
+
+./queries.sh
