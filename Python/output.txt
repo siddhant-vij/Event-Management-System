@@ -1,0 +1,780 @@
+List all events: 
+1|eget nunc donec|2022-12-30|South Fulton
+2|faucibus accumsan|2022-12-18|Lalganj
+3|duis bibendum|2022-03-05|Shahuwadi
+4|posuere cubilia curae nulla|2021-01-31|Kanayannur
+5|potenti in eleifend|2022-01-27|Paramathi Velur
+6|volutpat sapien arcu sed|2022-05-13|Bariq
+7|vestibulum ac est lacinia|2022-11-10|Qingnian
+8|ornare consequat lectus|2021-04-27|Chirmiri
+9|primis in faucibus|2021-04-24|Longling County
+10|imperdiet nullam orci|2021-03-17|Altstadt
+11|vel lectus in|2022-07-20|Yongcheng
+12|parturient montes nascetur|2021-11-16|Shihao
+13|dapibus augue vel accumsan|2022-04-21|Qingnian
+14|sem sed|2022-12-18|Fuhuan
+15|nec euismod|2021-02-27|Kanayannur
+16|non mi integer ac|2022-08-05|Liangping
+17|turpis integer|2021-12-22|Mingshan
+18|ante vel ipsum|2022-10-02|Lalganj
+19|tristique in tempus sit|2022-05-28|Xihu
+20|non mattis|2022-10-02|Jiaping
+21|vivamus metus|2021-03-18|Shuanglonghu
+22|in consequat ut nulla|2021-03-17|Lalganj
+23|pede ac|2022-01-27|Jieshi
+24|fusce posuere|2022-12-18|Yanghe
+25|habitasse platea dictumst morbi|2021-03-10|Dianzi
+26|varius ut blandit|2021-08-25|Qingnian
+27|posuere cubilia curae|2021-07-25|Zhawa
+28|magnis dis parturient|2022-12-18|Yawa
+29|pede ullamcorper augue|2022-02-07|Tuwaite
+30|odio consequat varius|2021-09-17|Lalganj
+31|justo lacinia eget|2021-01-26|Qingnian
+32|faucibus accumsan|2022-04-11|Manglai
+33|ut dolor|2021-04-24|Kuoyiqi
+34|mattis pulvinar|2022-01-23|Qingnian
+35|aliquet at feugiat|2022-09-25|Jiahanbage
+36|in quam|2022-12-18|Akesalayi
+37|interdum eu tincidunt|2021-02-27|Lalganj
+38|vitae nisi|2022-05-09|Jiayi
+39|ut dolor morbi vel|2022-01-27|Arele
+40|sapien sapien non mi|2022-06-25|Qingnian
+41|sem duis|2021-01-18|Awuliya
+42|velit eu est congue|2022-05-24|Qingnian
+43|lorem quisque|2021-12-24|Hudiyuzi
+44|ultrices enim lorem|2022-01-27|Kanayannur
+45|facilisi cras non|2022-06-12|Yishikuli
+46|interdum mauris|2021-03-17|Wudalike
+47|enim leo rhoncus sed|2022-12-18|Kanayannur
+48|ridiculus mus vivamus|2022-10-11|Paikeqi
+49|augue luctus|2022-04-21|Mixia
+50|faucibus orci luctus|2021-04-27|Kanayannur
+
+
+
+
+
+List all events in a particular city: "Lalganj": 
+2|faucibus accumsan|2022-12-18|Lalganj
+18|ante vel ipsum|2022-10-02|Lalganj
+22|in consequat ut nulla|2021-03-17|Lalganj
+30|odio consequat varius|2021-09-17|Lalganj
+37|interdum eu tincidunt|2021-02-27|Lalganj
+
+
+
+
+
+List all events in a particular year and month: "December, 2022": 
+1|eget nunc donec|2022-12-30|South Fulton
+2|faucibus accumsan|2022-12-18|Lalganj
+14|sem sed|2022-12-18|Fuhuan
+24|fusce posuere|2022-12-18|Yanghe
+28|magnis dis parturient|2022-12-18|Yawa
+36|in quam|2022-12-18|Akesalayi
+47|enim leo rhoncus sed|2022-12-18|Kanayannur
+
+
+
+
+
+List all events in a particular date range: from "2022-04-01" to "2022-06-30": 
+6|volutpat sapien arcu sed|2022-05-13|Bariq
+13|dapibus augue vel accumsan|2022-04-21|Qingnian
+19|tristique in tempus sit|2022-05-28|Xihu
+32|faucibus accumsan|2022-04-11|Manglai
+38|vitae nisi|2022-05-09|Jiayi
+40|sapien sapien non mi|2022-06-25|Qingnian
+42|velit eu est congue|2022-05-24|Qingnian
+45|facilisi cras non|2022-06-12|Yishikuli
+49|augue luctus|2022-04-21|Mixia
+
+
+
+
+
+Find attendees registered for a specific event: event_name = "eget nunc donec": 
+Brittany Ivanshintsev
+Tomasina Forrest
+Carrie Beenham
+Zabrina Breadmore
+Hollis Greenhall
+Shantee Simonassi
+Padriac Petrenko
+Sonia Slopier
+Gardiner Oats
+Holly Beathem
+Broddie Denekamp
+Genia Heyfield
+Koralle Scorthorne
+Guinna Ahern
+Mallory Youings
+De Wellum
+Clareta Mannock
+Paolo Cabral
+Kit Smithson
+Katlin Cockayme
+Lari Barnfield
+Melisande Vasyunichev
+Anastassia Rathbone
+Hieronymus Polding
+Gabby Mole
+Samara Dingwall
+Obadias Dewire
+
+
+
+
+
+Find attendees registered for a specific event before a certain date: event_name = "eget nunc donec" and date = "2022-12-01": 
+Hieronymus Polding
+Brittany Ivanshintsev
+Gabby Mole
+Koralle Scorthorne
+Mallory Youings
+Hollis Greenhall
+De Wellum
+Zabrina Breadmore
+Guinna Ahern
+Sonia Slopier
+Shantee Simonassi
+Kit Smithson
+Genia Heyfield
+Anastassia Rathbone
+Padriac Petrenko
+Holly Beathem
+Carrie Beenham
+Gardiner Oats
+Melisande Vasyunichev
+Samara Dingwall
+Paolo Cabral
+Broddie Denekamp
+Katlin Cockayme
+Clareta Mannock
+Obadias Dewire
+Tomasina Forrest
+Lari Barnfield
+
+
+
+
+
+Count the number of attendees for each event: 
+ornare consequat lectus|22
+mattis pulvinar|19
+nec euismod|31
+volutpat sapien arcu sed|20
+parturient montes nascetur|17
+posuere cubilia curae nulla|15
+vitae nisi|22
+eget nunc donec|27
+faucibus accumsan|33
+ultrices enim lorem|11
+augue luctus|0
+pede ullamcorper augue|26
+faucibus orci luctus|20
+facilisi cras non|23
+posuere cubilia curae|20
+ridiculus mus vivamus|12
+odio consequat varius|22
+ut dolor|24
+sem sed|20
+in quam|32
+turpis integer|20
+magnis dis parturient|0
+ante vel ipsum|23
+lorem quisque|23
+potenti in eleifend|20
+sem duis|24
+pede ac|31
+non mi integer ac|20
+habitasse platea dictumst morbi|31
+velit eu est congue|35
+vel lectus in|17
+in consequat ut nulla|16
+enim leo rhoncus sed|19
+interdum mauris|19
+imperdiet nullam orci|0
+vestibulum ac est lacinia|25
+dapibus augue vel accumsan|24
+ut dolor morbi vel|24
+justo lacinia eget|17
+vivamus metus|19
+non mattis|19
+interdum eu tincidunt|23
+aliquet at feugiat|20
+fusce posuere|23
+sapien sapien non mi|16
+tristique in tempus sit|14
+duis bibendum|23
+varius ut blandit|15
+primis in faucibus|24
+
+
+
+
+
+Update attendee information (e.g., email address) for a specific event: event_name = "faucibus accumsan": 
+32 rows affected.
+
+
+
+
+
+Delete an event and its associated registrations: event_name = "duis bibendum": 
+23 rows affected.
+
+
+
+
+
+Delete an event and its associated registrations: event_name = "duis bibendum": 
+1 rows affected.
+
+
+
+
+
+Delete an attendee and its associated registrations: attendee_name = "Roch Batters": 
+11 rows affected.
+
+
+
+
+
+Delete an attendee and its associated registrations: attendee_name = "Roch Batters": 
+1 rows affected.
+
+
+
+
+
+List all attendees not registered for a specific event: event_name = "eget nunc donec": 
+Glynn Tregonna
+Valry Cartmer
+Laurette Gherardesci
+Ricki Plaster
+Robbert Bouzek
+Amalie Rudram
+Kimball Coate
+Deena Cannaway
+Dasya Garmey
+Gherardo Catherine
+Karin Gallahar
+Mala Braunston
+Jori Powe
+Simone Lainge
+Clemmy Fillan
+Valerie Langforth
+Marielle Whipp
+Kerrie Maldin
+Chick Whelan
+Coop Angell
+Muffin Brastead
+Sydel Anyon
+Abeu Cooksey
+Orazio Pescod
+Ignatius Reynolds
+Raffarty Coxhell
+Thaddeus Rusk
+Gabbie Scare
+Gusta Haggart
+Ceil Jiggins
+Halimeda Allberry
+Culley Lorinez
+Purcell Aluard
+Christy Breache
+Loreen Delcastel
+Doria Molohan
+Oran McKenzie
+Erda Meric
+Allison Hadrill
+Garek Dalgetty
+Darlene Piggott
+Evey Farlowe
+Clayton Lukacs
+Rivi O Dreain
+Brett Barnwall
+Sam Lavies
+Mair Coulman
+Salvatore Pardoe
+Arty Tallboy
+Raeann Trembley
+Erek Kobierra
+Ilario Dittson
+Charley Baroch
+Barbi Eveque
+Pedro Chalder
+Lizette Bergen
+Jermaine Rantoull
+Nicolas Kerslake
+Loise Dreng
+Jermaine Ziem
+Sherye Merriton
+Merrel Izon
+Walton Kersaw
+Tresa Bartocci
+Virgil Greber
+Roxine Nisco
+Cleve Hartopp
+Charmain Hounihan
+Laural Grabbam
+Mel Girardez
+Neill Paladino
+Darice Scrinage
+Lewes Dacre
+Stanleigh Zukierman
+Hamlen Thunnercliffe
+Lettie Fearnsides
+Lamond Auton
+Jennie Lakeman
+Cole Towey
+Levi Siaskowski
+Brena Beisley
+Vite Moxson
+Gustavus Clawson
+Abbe Emms
+Bud Landeg
+Constanta McLeese
+Loutitia Prevett
+Gaspar Osbourne
+Andras Duckham
+Aldwin Ingilson
+Bogey Betancourt
+Clarice Shireff
+Ingra Taphouse
+Elwood Luther
+Tabbie Wailes
+Wandie Chatelain
+Burch Castagnet
+Emanuel Hamman
+Charlotta Troppmann
+Gustaf Thumann
+Rance Balwin
+Malina Fackney
+Murdoch Bruntje
+Loretta Fandrich
+Claresta Samwaye
+Wood Soall
+Cly Ridhole
+Christiano Barti
+Peri Lobell
+Johna Skillett
+Costa Pantone
+Brande Balma
+Moina Boldock
+Thomasina Burtwell
+Saunders Chiechio
+Ania Freer
+Sarette Martel
+Karlie Millwall
+Larine Pudan
+Adrea Kall
+Gasper Sartain
+Valaree Bucklee
+Delcina Worwood
+Blinny Tysack
+Petronilla Mounch
+Madelaine Pollastrone
+Madelyn Pond-Jones
+Flem Banke
+Jeniece Mallya
+Belia Blaxter
+Drucy Corain
+Henderson Mountjoy
+Caro Bicker
+Leslie Giamelli
+Neall Magog
+Lars Fullagar
+Zachariah Carrington
+Kerry Cullin
+Carolynn Alessandrini
+Stearne Roseborough
+Quillan Durnford
+Gustave Scrafton
+Helyn Roan
+Anissa Darbyshire
+Indira Isley
+Donielle Cammell
+Lazare Houltham
+Madelle Gathercole
+Issiah Carrodus
+Vi Autie
+Yard Okey
+Lorry Gardiner
+York Brugman
+Gale Petr
+Kimmi McGeraghty
+Rainer Mcettrick
+Dorella Couzens
+Dame Matyukon
+Sigfried Le Friec
+Lydie Dumper
+Jilly Grinter
+Jennie Tills
+Gweneth Mangon
+Janelle Budnik
+Gigi Meanwell
+Aubree Leebeter
+Wallis Pemberton
+Cecil Gyngyll
+Dorey Hattiff
+Kalil Fold
+Saunder Beauvais
+Amory Skym
+
+
+
+
+
+Find events without any registrations: 
+imperdiet nullam orci
+magnis dis parturient
+augue luctus
+
+
+
+
+
+List events that have more than 20 attendees registered: 
+eget nunc donec
+vestibulum ac est lacinia
+ornare consequat lectus
+primis in faucibus
+dapibus augue vel accumsan
+nec euismod
+ante vel ipsum
+pede ac
+fusce posuere
+habitasse platea dictumst morbi
+pede ullamcorper augue
+odio consequat varius
+ut dolor
+in quam
+interdum eu tincidunt
+vitae nisi
+ut dolor morbi vel
+sem duis
+velit eu est congue
+lorem quisque
+facilisi cras non
+
+
+
+
+
+Find events with no attendees registered after a certain date: date = "2022-12-01": 
+eget nunc donec
+posuere cubilia curae nulla
+potenti in eleifend
+vestibulum ac est lacinia
+imperdiet nullam orci
+nec euismod
+turpis integer
+non mattis
+in consequat ut nulla
+pede ac
+habitasse platea dictumst morbi
+magnis dis parturient
+faucibus accumsan
+mattis pulvinar
+ut dolor morbi vel
+sapien sapien non mi
+interdum mauris
+augue luctus
+
+
+
+
+
+Retrieve the latest 3 events based on registration date for a particular city: city = "Kanayannur": 
+faucibus orci luctus|2022-12-23 00:00:00
+ultrices enim lorem|2022-12-22 00:00:00
+ultrices enim lorem|2022-12-17 00:00:00
+
+
+
+
+
+Generate a list of attendees who have attended more than 4 events: 
+Moina Boldock
+Larine Pudan
+Melisande Vasyunichev
+Loreen Delcastel
+Peri Lobell
+Gustaf Thumann
+Wallis Pemberton
+Anastassia Rathbone
+Janelle Budnik
+Gale Petr
+Brande Balma
+De Wellum
+Lydie Dumper
+Clareta Mannock
+Aldwin Ingilson
+Christiano Barti
+Carolynn Alessandrini
+Dame Matyukon
+Gustave Scrafton
+Delcina Worwood
+Brena Beisley
+Ilario Dittson
+York Brugman
+Kimmi McGeraghty
+Merrel Izon
+Carrie Beenham
+Rainer Mcettrick
+Madelle Gathercole
+Marielle Whipp
+Barbi Eveque
+Genia Heyfield
+Madelyn Pond-Jones
+Padriac Petrenko
+Nicolas Kerslake
+Sam Lavies
+Lettie Fearnsides
+Bud Landeg
+Cly Ridhole
+Tresa Bartocci
+Hollis Greenhall
+Mallory Youings
+Laural Grabbam
+Valerie Langforth
+Elwood Luther
+Lazare Houltham
+Adrea Kall
+Jennie Tills
+Hamlen Thunnercliffe
+Broddie Denekamp
+Doria Molohan
+Thaddeus Rusk
+Kerrie Maldin
+Simone Lainge
+Saunder Beauvais
+Mel Girardez
+Andras Duckham
+Sigfried Le Friec
+Neall Magog
+Erek Kobierra
+Stanleigh Zukierman
+Murdoch Bruntje
+Koralle Scorthorne
+Yard Okey
+Bogey Betancourt
+Petronilla Mounch
+Gherardo Catherine
+Loutitia Prevett
+Oran McKenzie
+Jeniece Mallya
+Cleve Hartopp
+Jilly Grinter
+Anissa Darbyshire
+Indira Isley
+Guinna Ahern
+Gabby Mole
+Mair Coulman
+Raeann Trembley
+Rivi O Dreain
+Paolo Cabral
+Darice Scrinage
+Gusta Haggart
+Sherye Merriton
+Thomasina Burtwell
+Tabbie Wailes
+Sonia Slopier
+Jermaine Ziem
+Abbe Emms
+Kalil Fold
+Vite Moxson
+Gardiner Oats
+Shantee Simonassi
+Lizette Bergen
+Rance Balwin
+Ingra Taphouse
+Karin Gallahar
+Leslie Giamelli
+Loise Dreng
+Lorry Gardiner
+Vi Autie
+Deena Cannaway
+Ignatius Reynolds
+Ricki Plaster
+Chick Whelan
+Holly Beathem
+Gabbie Scare
+Zabrina Breadmore
+Emanuel Hamman
+
+
+
+
+
+Find the year & month combination with the highest number of events scheduled and list all events for that month: 
+2022-12|['eget nunc donec', 'faucibus accumsan', 'sem sed', 'fusce posuere', 'magnis dis parturient', 'in quam', 'enim leo rhoncus sed']
+
+
+
+
+
+Find the city with the highest number of events scheduled and list all events for that city: 
+Qingnian|['vestibulum ac est lacinia', 'dapibus augue vel accumsan', 'varius ut blandit', 'justo lacinia eget', 'mattis pulvinar', 'sapien sapien non mi', 'velit eu est congue']
+
+
+
+
+
+Find the city with the highest number of events scheduled and list all the attendees who'll be attending these events with their dates of registration: 
+Qingnian|Roxine Nisco|2021-01-06 00:00:00
+Qingnian|Levi Siaskowski|2021-01-08 00:00:00
+Qingnian|Gusta Haggart|2021-01-11 00:00:00
+Qingnian|Neill Paladino|2021-01-14 00:00:00
+Qingnian|Madelyn Pond-Jones|2021-01-23 00:00:00
+Qingnian|Gasper Sartain|2021-01-25 00:00:00
+Qingnian|Tomasina Forrest|2021-01-26 00:00:00
+Qingnian|Clareta Mannock|2021-01-27 00:00:00
+Qingnian|Glynn Tregonna|2021-01-27 00:00:00
+Qingnian|Mala Braunston|2021-01-28 00:00:00
+Qingnian|Gusta Haggart|2021-02-26 00:00:00
+Qingnian|Andras Duckham|2021-03-16 00:00:00
+Qingnian|Tabbie Wailes|2021-03-27 00:00:00
+Qingnian|Stanleigh Zukierman|2021-03-30 00:00:00
+Qingnian|Loreen Delcastel|2021-03-30 00:00:00
+Qingnian|Drucy Corain|2021-03-31 00:00:00
+Qingnian|Karin Gallahar|2021-04-01 00:00:00
+Qingnian|Loreen Delcastel|2021-04-03 00:00:00
+Qingnian|Jermaine Ziem|2021-04-06 00:00:00
+Qingnian|Hamlen Thunnercliffe|2021-04-07 00:00:00
+Qingnian|Blinny Tysack|2021-04-12 00:00:00
+Qingnian|Gustaf Thumann|2021-04-14 00:00:00
+Qingnian|Madelyn Pond-Jones|2021-04-15 00:00:00
+Qingnian|Adrea Kall|2021-04-19 00:00:00
+Qingnian|Murdoch Bruntje|2021-05-08 00:00:00
+Qingnian|Indira Isley|2021-06-04 00:00:00
+Qingnian|Ilario Dittson|2021-06-28 00:00:00
+Qingnian|Carrie Beenham|2021-07-02 00:00:00
+Qingnian|Petronilla Mounch|2021-07-03 00:00:00
+Qingnian|Brena Beisley|2021-07-07 00:00:00
+Qingnian|Darlene Piggott|2021-07-17 00:00:00
+Qingnian|Pedro Chalder|2021-07-21 00:00:00
+Qingnian|Petronilla Mounch|2021-07-24 00:00:00
+Qingnian|Wood Soall|2021-07-26 00:00:00
+Qingnian|Barbi Eveque|2021-07-29 00:00:00
+Qingnian|Charlotta Troppmann|2021-07-30 00:00:00
+Qingnian|Sam Lavies|2021-08-02 00:00:00
+Qingnian|Karin Gallahar|2021-08-04 00:00:00
+Qingnian|Kalil Fold|2021-08-09 00:00:00
+Qingnian|Quillan Durnford|2021-08-09 00:00:00
+Qingnian|Shantee Simonassi|2021-08-10 00:00:00
+Qingnian|Raeann Trembley|2021-08-13 00:00:00
+Qingnian|Clarice Shireff|2021-08-31 00:00:00
+Qingnian|Gusta Haggart|2021-09-07 00:00:00
+Qingnian|Raeann Trembley|2021-09-08 00:00:00
+Qingnian|Ingra Taphouse|2021-09-10 00:00:00
+Qingnian|Karin Gallahar|2021-09-14 00:00:00
+Qingnian|Barbi Eveque|2021-09-21 00:00:00
+Qingnian|Chick Whelan|2021-10-11 00:00:00
+Qingnian|Wallis Pemberton|2021-10-12 00:00:00
+Qingnian|Brande Balma|2021-11-02 00:00:00
+Qingnian|Kerrie Maldin|2021-11-08 00:00:00
+Qingnian|Gabbie Scare|2021-11-26 00:00:00
+Qingnian|Yard Okey|2021-11-27 00:00:00
+Qingnian|Loreen Delcastel|2021-11-29 00:00:00
+Qingnian|Christiano Barti|2021-12-04 00:00:00
+Qingnian|Saunders Chiechio|2021-12-07 00:00:00
+Qingnian|Thaddeus Rusk|2021-12-12 00:00:00
+Qingnian|Clareta Mannock|2021-12-22 00:00:00
+Qingnian|Charley Baroch|2021-12-23 00:00:00
+Qingnian|Brett Barnwall|2021-12-25 00:00:00
+Qingnian|Gweneth Mangon|2022-01-02 00:00:00
+Qingnian|Gustaf Thumann|2022-01-05 00:00:00
+Qingnian|Brena Beisley|2022-01-05 00:00:00
+Qingnian|Doria Molohan|2022-01-08 00:00:00
+Qingnian|Emanuel Hamman|2022-01-08 00:00:00
+Qingnian|Issiah Carrodus|2022-01-13 00:00:00
+Qingnian|Valerie Langforth|2022-01-14 00:00:00
+Qingnian|Murdoch Bruntje|2022-01-14 00:00:00
+Qingnian|Gardiner Oats|2022-01-20 00:00:00
+Qingnian|Ricki Plaster|2022-01-20 00:00:00
+Qingnian|Madelyn Pond-Jones|2022-01-21 00:00:00
+Qingnian|Evey Farlowe|2022-01-21 00:00:00
+Qingnian|Larine Pudan|2022-01-31 00:00:00
+Qingnian|Charmain Hounihan|2022-02-08 00:00:00
+Qingnian|Anissa Darbyshire|2022-02-09 00:00:00
+Qingnian|Allison Hadrill|2022-02-10 00:00:00
+Qingnian|Obadias Dewire|2022-02-11 00:00:00
+Qingnian|Loretta Fandrich|2022-02-13 00:00:00
+Qingnian|Brittany Ivanshintsev|2022-02-14 00:00:00
+Qingnian|Stanleigh Zukierman|2022-02-18 00:00:00
+Qingnian|Blinny Tysack|2022-02-21 00:00:00
+Qingnian|Indira Isley|2022-03-01 00:00:00
+Qingnian|Evey Farlowe|2022-03-08 00:00:00
+Qingnian|Clemmy Fillan|2022-03-13 00:00:00
+Qingnian|Gweneth Mangon|2022-03-14 00:00:00
+Qingnian|Sam Lavies|2022-03-25 00:00:00
+Qingnian|Costa Pantone|2022-03-28 00:00:00
+Qingnian|Anastassia Rathbone|2022-03-31 00:00:00
+Qingnian|Laural Grabbam|2022-04-09 00:00:00
+Qingnian|Melisande Vasyunichev|2022-04-14 00:00:00
+Qingnian|Gardiner Oats|2022-04-15 00:00:00
+Qingnian|Thomasina Burtwell|2022-04-27 00:00:00
+Qingnian|Wallis Pemberton|2022-04-28 00:00:00
+Qingnian|Ania Freer|2022-04-28 00:00:00
+Qingnian|Sigfried Le Friec|2022-04-29 00:00:00
+Qingnian|Merrel Izon|2022-05-08 00:00:00
+Qingnian|Saunders Chiechio|2022-05-22 00:00:00
+Qingnian|Samara Dingwall|2022-05-22 00:00:00
+Qingnian|Cole Towey|2022-05-26 00:00:00
+Qingnian|Abbe Emms|2022-06-04 00:00:00
+Qingnian|Gabby Mole|2022-06-07 00:00:00
+Qingnian|Jeniece Mallya|2022-06-15 00:00:00
+Qingnian|Jennie Tills|2022-06-15 00:00:00
+Qingnian|Christiano Barti|2022-06-16 00:00:00
+Qingnian|Erek Kobierra|2022-06-20 00:00:00
+Qingnian|Rance Balwin|2022-06-20 00:00:00
+Qingnian|Ingra Taphouse|2022-07-12 00:00:00
+Qingnian|Lazare Houltham|2022-07-18 00:00:00
+Qingnian|Lorry Gardiner|2022-07-21 00:00:00
+Qingnian|Kimmi McGeraghty|2022-07-30 00:00:00
+Qingnian|Caro Bicker|2022-08-08 00:00:00
+Qingnian|Mallory Youings|2022-08-11 00:00:00
+Qingnian|Vite Moxson|2022-08-16 00:00:00
+Qingnian|Ilario Dittson|2022-08-22 00:00:00
+Qingnian|Christiano Barti|2022-08-26 00:00:00
+Qingnian|Gabbie Scare|2022-08-27 00:00:00
+Qingnian|Saunders Chiechio|2022-08-29 00:00:00
+Qingnian|Ingra Taphouse|2022-08-30 00:00:00
+Qingnian|Barbi Eveque|2022-09-08 00:00:00
+Qingnian|Delcina Worwood|2022-09-16 00:00:00
+Qingnian|Flem Banke|2022-09-20 00:00:00
+Qingnian|Ilario Dittson|2022-09-21 00:00:00
+Qingnian|Christiano Barti|2022-09-29 00:00:00
+Qingnian|Thaddeus Rusk|2022-10-11 00:00:00
+Qingnian|Clemmy Fillan|2022-10-18 00:00:00
+Qingnian|Cly Ridhole|2022-10-19 00:00:00
+Qingnian|Neill Paladino|2022-10-20 00:00:00
+Qingnian|Emanuel Hamman|2022-10-23 00:00:00
+Qingnian|Darice Scrinage|2022-10-24 00:00:00
+Qingnian|Emanuel Hamman|2022-10-31 00:00:00
+Qingnian|Mala Braunston|2022-11-01 00:00:00
+Qingnian|Peri Lobell|2022-11-03 00:00:00
+Qingnian|Aubree Leebeter|2022-11-04 00:00:00
+Qingnian|Holly Beathem|2022-11-11 00:00:00
+Qingnian|Rivi O Dreain|2022-11-12 00:00:00
+Qingnian|Tabbie Wailes|2022-11-19 00:00:00
+Qingnian|Bogey Betancourt|2022-11-20 00:00:00
+Qingnian|Brett Barnwall|2022-11-22 00:00:00
+Qingnian|Gusta Haggart|2022-11-22 00:00:00
+Qingnian|Flem Banke|2022-11-23 00:00:00
+Qingnian|Kit Smithson|2022-11-30 00:00:00
+Qingnian|Wandie Chatelain|2022-12-03 00:00:00
+Qingnian|Halimeda Allberry|2022-12-07 00:00:00
+Qingnian|Koralle Scorthorne|2022-12-08 00:00:00
+Qingnian|Ignatius Reynolds|2022-12-11 00:00:00
+Qingnian|Gardiner Oats|2022-12-13 00:00:00
+Qingnian|Genia Heyfield|2022-12-19 00:00:00
+Qingnian|Coop Angell|2022-12-29 00:00:00
+
+
+
+
+
